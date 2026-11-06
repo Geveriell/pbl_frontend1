@@ -1,0 +1,8 @@
+{
+    "diskon_aktif": true,
+    "diskon_persen": 25,
+    "harga": {
+        "1": 25000
+    },
+    "tanpa_diskon": []
+}
